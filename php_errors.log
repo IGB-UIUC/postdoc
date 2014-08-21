@@ -1,0 +1,219 @@
+[21-Aug-2014 19:04:11 UTC] PHP Notice:  Undefined variable: i in C:\Apache24\htdocs\postdoc\genPDF.php on line 56
+[21-Aug-2014 19:04:11 UTC] PHP Notice:  Undefined index: goal in C:\Apache24\htdocs\postdoc\genPDF.php on line 159
+[21-Aug-2014 19:04:11 UTC] PHP Notice:  Undefined index: steps in C:\Apache24\htdocs\postdoc\genPDF.php on line 160
+[21-Aug-2014 19:04:11 UTC] PHP Notice:  Undefined index: timelineSteps in C:\Apache24\htdocs\postdoc\genPDF.php on line 161
+[21-Aug-2014 19:04:11 UTC] PHP Notice:  Undefined index: outcome in C:\Apache24\htdocs\postdoc\genPDF.php on line 162
+[21-Aug-2014 19:04:11 UTC] PHP Notice:  Undefined index: timelineOutcomes in C:\Apache24\htdocs\postdoc\genPDF.php on line 163
+[21-Aug-2014 19:04:11 UTC] PHP Notice:  Undefined index: goal in C:\Apache24\htdocs\postdoc\genPDF.php on line 159
+[21-Aug-2014 19:04:11 UTC] PHP Notice:  Undefined index: steps in C:\Apache24\htdocs\postdoc\genPDF.php on line 160
+[21-Aug-2014 19:04:11 UTC] PHP Notice:  Undefined index: timelineSteps in C:\Apache24\htdocs\postdoc\genPDF.php on line 161
+[21-Aug-2014 19:04:11 UTC] PHP Notice:  Undefined index: outcome in C:\Apache24\htdocs\postdoc\genPDF.php on line 162
+[21-Aug-2014 19:04:11 UTC] PHP Notice:  Undefined index: timelineOutcomes in C:\Apache24\htdocs\postdoc\genPDF.php on line 163
+[21-Aug-2014 19:04:11 UTC] PHP Notice:  Undefined index: goal in C:\Apache24\htdocs\postdoc\genPDF.php on line 159
+[21-Aug-2014 19:04:11 UTC] PHP Notice:  Undefined index: steps in C:\Apache24\htdocs\postdoc\genPDF.php on line 160
+[21-Aug-2014 19:04:11 UTC] PHP Notice:  Undefined index: timelineSteps in C:\Apache24\htdocs\postdoc\genPDF.php on line 161
+[21-Aug-2014 19:04:11 UTC] PHP Notice:  Undefined index: outcome in C:\Apache24\htdocs\postdoc\genPDF.php on line 162
+[21-Aug-2014 19:04:11 UTC] PHP Notice:  Undefined index: timelineOutcomes in C:\Apache24\htdocs\postdoc\genPDF.php on line 163
+[21-Aug-2014 19:04:12 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in C:\Apache24\htdocs\postdoc\tcpdf\include\tcpdf_static.php on line 1201
+[21-Aug-2014 19:04:12 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in C:\Apache24\htdocs\postdoc\tcpdf\include\tcpdf_static.php on line 1201
+[21-Aug-2014 19:04:12 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in C:\Apache24\htdocs\postdoc\tcpdf\include\tcpdf_static.php on line 1201
+[21-Aug-2014 19:04:12 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in C:\Apache24\htdocs\postdoc\tcpdf\include\tcpdf_static.php on line 1201
+[21-Aug-2014 19:04:12 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in C:\Apache24\htdocs\postdoc\tcpdf\include\tcpdf_static.php on line 1201
+[21-Aug-2014 19:04:12 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in C:\Apache24\htdocs\postdoc\tcpdf\include\tcpdf_static.php on line 1201
+[21-Aug-2014 19:04:12 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in C:\Apache24\htdocs\postdoc\tcpdf\include\tcpdf_static.php on line 1201
+[21-Aug-2014 19:04:12 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in C:\Apache24\htdocs\postdoc\tcpdf\include\tcpdf_static.php on line 1201
+[21-Aug-2014 19:04:12 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in C:\Apache24\htdocs\postdoc\tcpdf\include\tcpdf_static.php on line 1201
+[21-Aug-2014 19:04:12 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in C:\Apache24\htdocs\postdoc\tcpdf\include\tcpdf_static.php on line 1201
+[21-Aug-2014 19:04:12 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in C:\Apache24\htdocs\postdoc\tcpdf\include\tcpdf_static.php on line 1201
+[21-Aug-2014 19:04:12 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in C:\Apache24\htdocs\postdoc\tcpdf\include\tcpdf_static.php on line 1201
+[21-Aug-2014 19:04:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Apache24\htdocs\postdoc\genPDF.php:159) in C:\Apache24\htdocs\postdoc\tcpdf\tcpdf.php on line 7590
+[21-Aug-2014 19:24:35 UTC] PHP Notice:  Undefined variable: i in C:\Apache24\htdocs\postdoc\genPDF.php on line 56
+[21-Aug-2014 19:24:35 UTC] PHP Notice:  Undefined index: goal in C:\Apache24\htdocs\postdoc\genPDF.php on line 159
+[21-Aug-2014 19:24:35 UTC] PHP Notice:  Undefined index: steps in C:\Apache24\htdocs\postdoc\genPDF.php on line 160
+[21-Aug-2014 19:24:35 UTC] PHP Notice:  Undefined index: timelineSteps in C:\Apache24\htdocs\postdoc\genPDF.php on line 161
+[21-Aug-2014 19:24:35 UTC] PHP Notice:  Undefined index: outcome in C:\Apache24\htdocs\postdoc\genPDF.php on line 162
+[21-Aug-2014 19:24:35 UTC] PHP Notice:  Undefined index: timelineOutcomes in C:\Apache24\htdocs\postdoc\genPDF.php on line 163
+[21-Aug-2014 19:24:35 UTC] PHP Notice:  Undefined index: goal in C:\Apache24\htdocs\postdoc\genPDF.php on line 159
+[21-Aug-2014 19:24:35 UTC] PHP Notice:  Undefined index: steps in C:\Apache24\htdocs\postdoc\genPDF.php on line 160
+[21-Aug-2014 19:24:35 UTC] PHP Notice:  Undefined index: timelineSteps in C:\Apache24\htdocs\postdoc\genPDF.php on line 161
+[21-Aug-2014 19:24:35 UTC] PHP Notice:  Undefined index: outcome in C:\Apache24\htdocs\postdoc\genPDF.php on line 162
+[21-Aug-2014 19:24:35 UTC] PHP Notice:  Undefined index: timelineOutcomes in C:\Apache24\htdocs\postdoc\genPDF.php on line 163
+[21-Aug-2014 19:24:35 UTC] PHP Notice:  Undefined index: goal in C:\Apache24\htdocs\postdoc\genPDF.php on line 159
+[21-Aug-2014 19:24:35 UTC] PHP Notice:  Undefined index: steps in C:\Apache24\htdocs\postdoc\genPDF.php on line 160
+[21-Aug-2014 19:24:35 UTC] PHP Notice:  Undefined index: timelineSteps in C:\Apache24\htdocs\postdoc\genPDF.php on line 161
+[21-Aug-2014 19:24:35 UTC] PHP Notice:  Undefined index: outcome in C:\Apache24\htdocs\postdoc\genPDF.php on line 162
+[21-Aug-2014 19:24:35 UTC] PHP Notice:  Undefined index: timelineOutcomes in C:\Apache24\htdocs\postdoc\genPDF.php on line 163
+[21-Aug-2014 19:24:35 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in C:\Apache24\htdocs\postdoc\tcpdf\include\tcpdf_static.php on line 1201
+[21-Aug-2014 19:24:35 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in C:\Apache24\htdocs\postdoc\tcpdf\include\tcpdf_static.php on line 1201
+[21-Aug-2014 19:24:35 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in C:\Apache24\htdocs\postdoc\tcpdf\include\tcpdf_static.php on line 1201
+[21-Aug-2014 19:24:35 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in C:\Apache24\htdocs\postdoc\tcpdf\include\tcpdf_static.php on line 1201
+[21-Aug-2014 19:24:35 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in C:\Apache24\htdocs\postdoc\tcpdf\include\tcpdf_static.php on line 1201
+[21-Aug-2014 19:24:35 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in C:\Apache24\htdocs\postdoc\tcpdf\include\tcpdf_static.php on line 1201
+[21-Aug-2014 19:24:35 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in C:\Apache24\htdocs\postdoc\tcpdf\include\tcpdf_static.php on line 1201
+[21-Aug-2014 19:24:35 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in C:\Apache24\htdocs\postdoc\tcpdf\include\tcpdf_static.php on line 1201
+[21-Aug-2014 19:24:35 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in C:\Apache24\htdocs\postdoc\tcpdf\include\tcpdf_static.php on line 1201
+[21-Aug-2014 19:24:35 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in C:\Apache24\htdocs\postdoc\tcpdf\include\tcpdf_static.php on line 1201
+[21-Aug-2014 19:24:35 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in C:\Apache24\htdocs\postdoc\tcpdf\include\tcpdf_static.php on line 1201
+[21-Aug-2014 19:24:35 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in C:\Apache24\htdocs\postdoc\tcpdf\include\tcpdf_static.php on line 1201
+[21-Aug-2014 19:24:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Apache24\htdocs\postdoc\genPDF.php:159) in C:\Apache24\htdocs\postdoc\tcpdf\tcpdf.php on line 7590
+[21-Aug-2014 14:25:17 America/Chicago] PHP Notice:  Undefined variable: i in C:\Apache24\htdocs\postdoc\genPDF.php on line 56
+[21-Aug-2014 14:25:17 America/Chicago] PHP Notice:  Undefined index: goal in C:\Apache24\htdocs\postdoc\genPDF.php on line 159
+[21-Aug-2014 14:25:17 America/Chicago] PHP Notice:  Undefined index: steps in C:\Apache24\htdocs\postdoc\genPDF.php on line 160
+[21-Aug-2014 14:25:17 America/Chicago] PHP Notice:  Undefined index: timelineSteps in C:\Apache24\htdocs\postdoc\genPDF.php on line 161
+[21-Aug-2014 14:25:17 America/Chicago] PHP Notice:  Undefined index: outcome in C:\Apache24\htdocs\postdoc\genPDF.php on line 162
+[21-Aug-2014 14:25:17 America/Chicago] PHP Notice:  Undefined index: timelineOutcomes in C:\Apache24\htdocs\postdoc\genPDF.php on line 163
+[21-Aug-2014 14:25:17 America/Chicago] PHP Notice:  Undefined index: goal in C:\Apache24\htdocs\postdoc\genPDF.php on line 159
+[21-Aug-2014 14:25:17 America/Chicago] PHP Notice:  Undefined index: steps in C:\Apache24\htdocs\postdoc\genPDF.php on line 160
+[21-Aug-2014 14:25:17 America/Chicago] PHP Notice:  Undefined index: timelineSteps in C:\Apache24\htdocs\postdoc\genPDF.php on line 161
+[21-Aug-2014 14:25:17 America/Chicago] PHP Notice:  Undefined index: outcome in C:\Apache24\htdocs\postdoc\genPDF.php on line 162
+[21-Aug-2014 14:25:17 America/Chicago] PHP Notice:  Undefined index: timelineOutcomes in C:\Apache24\htdocs\postdoc\genPDF.php on line 163
+[21-Aug-2014 14:25:17 America/Chicago] PHP Notice:  Undefined index: goal in C:\Apache24\htdocs\postdoc\genPDF.php on line 159
+[21-Aug-2014 14:25:17 America/Chicago] PHP Notice:  Undefined index: steps in C:\Apache24\htdocs\postdoc\genPDF.php on line 160
+[21-Aug-2014 14:25:17 America/Chicago] PHP Notice:  Undefined index: timelineSteps in C:\Apache24\htdocs\postdoc\genPDF.php on line 161
+[21-Aug-2014 14:25:17 America/Chicago] PHP Notice:  Undefined index: outcome in C:\Apache24\htdocs\postdoc\genPDF.php on line 162
+[21-Aug-2014 14:25:17 America/Chicago] PHP Notice:  Undefined index: timelineOutcomes in C:\Apache24\htdocs\postdoc\genPDF.php on line 163
+[21-Aug-2014 15:03:25 America/Chicago] PHP Notice:  Undefined index: goal in C:\Apache24\htdocs\postdoc\genPDF.php on line 159
+[21-Aug-2014 15:03:25 America/Chicago] PHP Notice:  Undefined index: steps in C:\Apache24\htdocs\postdoc\genPDF.php on line 160
+[21-Aug-2014 15:03:25 America/Chicago] PHP Notice:  Undefined index: timelineSteps in C:\Apache24\htdocs\postdoc\genPDF.php on line 161
+[21-Aug-2014 15:03:25 America/Chicago] PHP Notice:  Undefined index: outcome in C:\Apache24\htdocs\postdoc\genPDF.php on line 162
+[21-Aug-2014 15:03:25 America/Chicago] PHP Notice:  Undefined index: timelineOutcomes in C:\Apache24\htdocs\postdoc\genPDF.php on line 163
+[21-Aug-2014 15:03:25 America/Chicago] PHP Notice:  Undefined index: goal in C:\Apache24\htdocs\postdoc\genPDF.php on line 159
+[21-Aug-2014 15:03:25 America/Chicago] PHP Notice:  Undefined index: steps in C:\Apache24\htdocs\postdoc\genPDF.php on line 160
+[21-Aug-2014 15:03:25 America/Chicago] PHP Notice:  Undefined index: timelineSteps in C:\Apache24\htdocs\postdoc\genPDF.php on line 161
+[21-Aug-2014 15:03:25 America/Chicago] PHP Notice:  Undefined index: outcome in C:\Apache24\htdocs\postdoc\genPDF.php on line 162
+[21-Aug-2014 15:03:25 America/Chicago] PHP Notice:  Undefined index: timelineOutcomes in C:\Apache24\htdocs\postdoc\genPDF.php on line 163
+[21-Aug-2014 15:03:25 America/Chicago] PHP Notice:  Undefined index: goal in C:\Apache24\htdocs\postdoc\genPDF.php on line 159
+[21-Aug-2014 15:03:25 America/Chicago] PHP Notice:  Undefined index: steps in C:\Apache24\htdocs\postdoc\genPDF.php on line 160
+[21-Aug-2014 15:03:25 America/Chicago] PHP Notice:  Undefined index: timelineSteps in C:\Apache24\htdocs\postdoc\genPDF.php on line 161
+[21-Aug-2014 15:03:25 America/Chicago] PHP Notice:  Undefined index: outcome in C:\Apache24\htdocs\postdoc\genPDF.php on line 162
+[21-Aug-2014 15:03:25 America/Chicago] PHP Notice:  Undefined index: timelineOutcomes in C:\Apache24\htdocs\postdoc\genPDF.php on line 163
+[21-Aug-2014 15:05:50 America/Chicago] PHP Notice:  Undefined index: Research Goals in C:\Apache24\htdocs\postdoc\genPDF.php on line 12
+[21-Aug-2014 15:05:50 America/Chicago] PHP Notice:  Undefined index: goal in C:\Apache24\htdocs\postdoc\genPDF.php on line 159
+[21-Aug-2014 15:05:50 America/Chicago] PHP Notice:  Undefined index: steps in C:\Apache24\htdocs\postdoc\genPDF.php on line 160
+[21-Aug-2014 15:05:50 America/Chicago] PHP Notice:  Undefined index: timelineSteps in C:\Apache24\htdocs\postdoc\genPDF.php on line 161
+[21-Aug-2014 15:05:50 America/Chicago] PHP Notice:  Undefined index: outcome in C:\Apache24\htdocs\postdoc\genPDF.php on line 162
+[21-Aug-2014 15:05:50 America/Chicago] PHP Notice:  Undefined index: timelineOutcomes in C:\Apache24\htdocs\postdoc\genPDF.php on line 163
+[21-Aug-2014 15:05:50 America/Chicago] PHP Notice:  Undefined index: goal in C:\Apache24\htdocs\postdoc\genPDF.php on line 159
+[21-Aug-2014 15:05:50 America/Chicago] PHP Notice:  Undefined index: steps in C:\Apache24\htdocs\postdoc\genPDF.php on line 160
+[21-Aug-2014 15:05:50 America/Chicago] PHP Notice:  Undefined index: timelineSteps in C:\Apache24\htdocs\postdoc\genPDF.php on line 161
+[21-Aug-2014 15:05:50 America/Chicago] PHP Notice:  Undefined index: outcome in C:\Apache24\htdocs\postdoc\genPDF.php on line 162
+[21-Aug-2014 15:05:50 America/Chicago] PHP Notice:  Undefined index: timelineOutcomes in C:\Apache24\htdocs\postdoc\genPDF.php on line 163
+[21-Aug-2014 15:05:50 America/Chicago] PHP Notice:  Undefined index: goal in C:\Apache24\htdocs\postdoc\genPDF.php on line 159
+[21-Aug-2014 15:05:50 America/Chicago] PHP Notice:  Undefined index: steps in C:\Apache24\htdocs\postdoc\genPDF.php on line 160
+[21-Aug-2014 15:05:50 America/Chicago] PHP Notice:  Undefined index: timelineSteps in C:\Apache24\htdocs\postdoc\genPDF.php on line 161
+[21-Aug-2014 15:05:50 America/Chicago] PHP Notice:  Undefined index: outcome in C:\Apache24\htdocs\postdoc\genPDF.php on line 162
+[21-Aug-2014 15:05:50 America/Chicago] PHP Notice:  Undefined index: timelineOutcomes in C:\Apache24\htdocs\postdoc\genPDF.php on line 163
+[21-Aug-2014 15:08:38 America/Chicago] PHP Notice:  Undefined index: Research Goals in C:\Apache24\htdocs\postdoc\genPDF.php on line 12
+[21-Aug-2014 15:08:38 America/Chicago] PHP Notice:  Undefined index: goal in C:\Apache24\htdocs\postdoc\genPDF.php on line 159
+[21-Aug-2014 15:08:38 America/Chicago] PHP Notice:  Undefined index: steps in C:\Apache24\htdocs\postdoc\genPDF.php on line 160
+[21-Aug-2014 15:08:38 America/Chicago] PHP Notice:  Undefined index: timelineSteps in C:\Apache24\htdocs\postdoc\genPDF.php on line 161
+[21-Aug-2014 15:08:38 America/Chicago] PHP Notice:  Undefined index: outcome in C:\Apache24\htdocs\postdoc\genPDF.php on line 162
+[21-Aug-2014 15:08:38 America/Chicago] PHP Notice:  Undefined index: timelineOutcomes in C:\Apache24\htdocs\postdoc\genPDF.php on line 163
+[21-Aug-2014 15:08:38 America/Chicago] PHP Notice:  Undefined index: goal in C:\Apache24\htdocs\postdoc\genPDF.php on line 159
+[21-Aug-2014 15:08:38 America/Chicago] PHP Notice:  Undefined index: steps in C:\Apache24\htdocs\postdoc\genPDF.php on line 160
+[21-Aug-2014 15:08:38 America/Chicago] PHP Notice:  Undefined index: timelineSteps in C:\Apache24\htdocs\postdoc\genPDF.php on line 161
+[21-Aug-2014 15:08:38 America/Chicago] PHP Notice:  Undefined index: outcome in C:\Apache24\htdocs\postdoc\genPDF.php on line 162
+[21-Aug-2014 15:08:38 America/Chicago] PHP Notice:  Undefined index: timelineOutcomes in C:\Apache24\htdocs\postdoc\genPDF.php on line 163
+[21-Aug-2014 15:08:38 America/Chicago] PHP Notice:  Undefined index: goal in C:\Apache24\htdocs\postdoc\genPDF.php on line 159
+[21-Aug-2014 15:08:38 America/Chicago] PHP Notice:  Undefined index: steps in C:\Apache24\htdocs\postdoc\genPDF.php on line 160
+[21-Aug-2014 15:08:38 America/Chicago] PHP Notice:  Undefined index: timelineSteps in C:\Apache24\htdocs\postdoc\genPDF.php on line 161
+[21-Aug-2014 15:08:38 America/Chicago] PHP Notice:  Undefined index: outcome in C:\Apache24\htdocs\postdoc\genPDF.php on line 162
+[21-Aug-2014 15:08:38 America/Chicago] PHP Notice:  Undefined index: timelineOutcomes in C:\Apache24\htdocs\postdoc\genPDF.php on line 163
+[21-Aug-2014 15:09:39 America/Chicago] PHP Notice:  Undefined index: Research Accomplishments in C:\Apache24\htdocs\postdoc\genPDF.php on line 81
+[21-Aug-2014 15:09:39 America/Chicago] PHP Notice:  Undefined index: Research Accomplishments in C:\Apache24\htdocs\postdoc\genPDF.php on line 84
+[21-Aug-2014 15:09:39 America/Chicago] PHP Notice:  Undefined index: Research Accomplishments in C:\Apache24\htdocs\postdoc\genPDF.php on line 87
+[21-Aug-2014 15:09:39 America/Chicago] PHP Notice:  Undefined index: Research Accomplishments in C:\Apache24\htdocs\postdoc\genPDF.php on line 90
+[21-Aug-2014 15:09:39 America/Chicago] PHP Notice:  Undefined index: Research Accomplishments in C:\Apache24\htdocs\postdoc\genPDF.php on line 93
+[21-Aug-2014 15:09:39 America/Chicago] PHP Notice:  Undefined index: goal in C:\Apache24\htdocs\postdoc\genPDF.php on line 159
+[21-Aug-2014 15:09:39 America/Chicago] PHP Notice:  Undefined index: steps in C:\Apache24\htdocs\postdoc\genPDF.php on line 160
+[21-Aug-2014 15:09:39 America/Chicago] PHP Notice:  Undefined index: timelineSteps in C:\Apache24\htdocs\postdoc\genPDF.php on line 161
+[21-Aug-2014 15:09:39 America/Chicago] PHP Notice:  Undefined index: outcome in C:\Apache24\htdocs\postdoc\genPDF.php on line 162
+[21-Aug-2014 15:09:39 America/Chicago] PHP Notice:  Undefined index: timelineOutcomes in C:\Apache24\htdocs\postdoc\genPDF.php on line 163
+[21-Aug-2014 15:09:39 America/Chicago] PHP Notice:  Undefined index: goal in C:\Apache24\htdocs\postdoc\genPDF.php on line 159
+[21-Aug-2014 15:09:39 America/Chicago] PHP Notice:  Undefined index: steps in C:\Apache24\htdocs\postdoc\genPDF.php on line 160
+[21-Aug-2014 15:09:39 America/Chicago] PHP Notice:  Undefined index: timelineSteps in C:\Apache24\htdocs\postdoc\genPDF.php on line 161
+[21-Aug-2014 15:09:39 America/Chicago] PHP Notice:  Undefined index: outcome in C:\Apache24\htdocs\postdoc\genPDF.php on line 162
+[21-Aug-2014 15:09:39 America/Chicago] PHP Notice:  Undefined index: timelineOutcomes in C:\Apache24\htdocs\postdoc\genPDF.php on line 163
+[21-Aug-2014 15:09:39 America/Chicago] PHP Notice:  Undefined index: goal in C:\Apache24\htdocs\postdoc\genPDF.php on line 159
+[21-Aug-2014 15:09:39 America/Chicago] PHP Notice:  Undefined index: steps in C:\Apache24\htdocs\postdoc\genPDF.php on line 160
+[21-Aug-2014 15:09:39 America/Chicago] PHP Notice:  Undefined index: timelineSteps in C:\Apache24\htdocs\postdoc\genPDF.php on line 161
+[21-Aug-2014 15:09:39 America/Chicago] PHP Notice:  Undefined index: outcome in C:\Apache24\htdocs\postdoc\genPDF.php on line 162
+[21-Aug-2014 15:09:39 America/Chicago] PHP Notice:  Undefined index: timelineOutcomes in C:\Apache24\htdocs\postdoc\genPDF.php on line 163
+[21-Aug-2014 15:10:13 America/Chicago] PHP Notice:  Undefined index: goal in C:\Apache24\htdocs\postdoc\genPDF.php on line 159
+[21-Aug-2014 15:10:13 America/Chicago] PHP Notice:  Undefined index: steps in C:\Apache24\htdocs\postdoc\genPDF.php on line 160
+[21-Aug-2014 15:10:13 America/Chicago] PHP Notice:  Undefined index: timelineSteps in C:\Apache24\htdocs\postdoc\genPDF.php on line 161
+[21-Aug-2014 15:10:13 America/Chicago] PHP Notice:  Undefined index: outcome in C:\Apache24\htdocs\postdoc\genPDF.php on line 162
+[21-Aug-2014 15:10:13 America/Chicago] PHP Notice:  Undefined index: timelineOutcomes in C:\Apache24\htdocs\postdoc\genPDF.php on line 163
+[21-Aug-2014 15:10:13 America/Chicago] PHP Notice:  Undefined index: goal in C:\Apache24\htdocs\postdoc\genPDF.php on line 159
+[21-Aug-2014 15:10:13 America/Chicago] PHP Notice:  Undefined index: steps in C:\Apache24\htdocs\postdoc\genPDF.php on line 160
+[21-Aug-2014 15:10:13 America/Chicago] PHP Notice:  Undefined index: timelineSteps in C:\Apache24\htdocs\postdoc\genPDF.php on line 161
+[21-Aug-2014 15:10:13 America/Chicago] PHP Notice:  Undefined index: outcome in C:\Apache24\htdocs\postdoc\genPDF.php on line 162
+[21-Aug-2014 15:10:13 America/Chicago] PHP Notice:  Undefined index: timelineOutcomes in C:\Apache24\htdocs\postdoc\genPDF.php on line 163
+[21-Aug-2014 15:10:13 America/Chicago] PHP Notice:  Undefined index: goal in C:\Apache24\htdocs\postdoc\genPDF.php on line 159
+[21-Aug-2014 15:10:13 America/Chicago] PHP Notice:  Undefined index: steps in C:\Apache24\htdocs\postdoc\genPDF.php on line 160
+[21-Aug-2014 15:10:13 America/Chicago] PHP Notice:  Undefined index: timelineSteps in C:\Apache24\htdocs\postdoc\genPDF.php on line 161
+[21-Aug-2014 15:10:13 America/Chicago] PHP Notice:  Undefined index: outcome in C:\Apache24\htdocs\postdoc\genPDF.php on line 162
+[21-Aug-2014 15:10:13 America/Chicago] PHP Notice:  Undefined index: timelineOutcomes in C:\Apache24\htdocs\postdoc\genPDF.php on line 163
+[21-Aug-2014 15:11:49 America/Chicago] PHP Notice:  Undefined index: goal in C:\Apache24\htdocs\postdoc\genPDF.php on line 159
+[21-Aug-2014 15:11:49 America/Chicago] PHP Notice:  Undefined index: steps in C:\Apache24\htdocs\postdoc\genPDF.php on line 160
+[21-Aug-2014 15:11:49 America/Chicago] PHP Notice:  Undefined index: timelineSteps in C:\Apache24\htdocs\postdoc\genPDF.php on line 161
+[21-Aug-2014 15:11:49 America/Chicago] PHP Notice:  Undefined index: outcome in C:\Apache24\htdocs\postdoc\genPDF.php on line 162
+[21-Aug-2014 15:11:49 America/Chicago] PHP Notice:  Undefined index: timelineOutcomes in C:\Apache24\htdocs\postdoc\genPDF.php on line 163
+[21-Aug-2014 15:11:49 America/Chicago] PHP Notice:  Undefined index: goal in C:\Apache24\htdocs\postdoc\genPDF.php on line 159
+[21-Aug-2014 15:11:49 America/Chicago] PHP Notice:  Undefined index: steps in C:\Apache24\htdocs\postdoc\genPDF.php on line 160
+[21-Aug-2014 15:11:49 America/Chicago] PHP Notice:  Undefined index: timelineSteps in C:\Apache24\htdocs\postdoc\genPDF.php on line 161
+[21-Aug-2014 15:11:49 America/Chicago] PHP Notice:  Undefined index: outcome in C:\Apache24\htdocs\postdoc\genPDF.php on line 162
+[21-Aug-2014 15:11:49 America/Chicago] PHP Notice:  Undefined index: timelineOutcomes in C:\Apache24\htdocs\postdoc\genPDF.php on line 163
+[21-Aug-2014 15:11:49 America/Chicago] PHP Notice:  Undefined index: goal in C:\Apache24\htdocs\postdoc\genPDF.php on line 159
+[21-Aug-2014 15:11:49 America/Chicago] PHP Notice:  Undefined index: steps in C:\Apache24\htdocs\postdoc\genPDF.php on line 160
+[21-Aug-2014 15:11:49 America/Chicago] PHP Notice:  Undefined index: timelineSteps in C:\Apache24\htdocs\postdoc\genPDF.php on line 161
+[21-Aug-2014 15:11:49 America/Chicago] PHP Notice:  Undefined index: outcome in C:\Apache24\htdocs\postdoc\genPDF.php on line 162
+[21-Aug-2014 15:11:49 America/Chicago] PHP Notice:  Undefined index: timelineOutcomes in C:\Apache24\htdocs\postdoc\genPDF.php on line 163
+[21-Aug-2014 15:12:22 America/Chicago] PHP Notice:  Undefined index: goal in C:\Apache24\htdocs\postdoc\genPDF.php on line 159
+[21-Aug-2014 15:12:22 America/Chicago] PHP Notice:  Undefined index: steps in C:\Apache24\htdocs\postdoc\genPDF.php on line 160
+[21-Aug-2014 15:12:22 America/Chicago] PHP Notice:  Undefined index: timelineSteps in C:\Apache24\htdocs\postdoc\genPDF.php on line 161
+[21-Aug-2014 15:12:22 America/Chicago] PHP Notice:  Undefined index: outcome in C:\Apache24\htdocs\postdoc\genPDF.php on line 162
+[21-Aug-2014 15:12:22 America/Chicago] PHP Notice:  Undefined index: timelineOutcomes in C:\Apache24\htdocs\postdoc\genPDF.php on line 163
+[21-Aug-2014 15:12:22 America/Chicago] PHP Notice:  Undefined index: goal in C:\Apache24\htdocs\postdoc\genPDF.php on line 159
+[21-Aug-2014 15:12:22 America/Chicago] PHP Notice:  Undefined index: steps in C:\Apache24\htdocs\postdoc\genPDF.php on line 160
+[21-Aug-2014 15:12:22 America/Chicago] PHP Notice:  Undefined index: timelineSteps in C:\Apache24\htdocs\postdoc\genPDF.php on line 161
+[21-Aug-2014 15:12:22 America/Chicago] PHP Notice:  Undefined index: outcome in C:\Apache24\htdocs\postdoc\genPDF.php on line 162
+[21-Aug-2014 15:12:22 America/Chicago] PHP Notice:  Undefined index: timelineOutcomes in C:\Apache24\htdocs\postdoc\genPDF.php on line 163
+[21-Aug-2014 15:12:22 America/Chicago] PHP Notice:  Undefined index: goal in C:\Apache24\htdocs\postdoc\genPDF.php on line 159
+[21-Aug-2014 15:12:22 America/Chicago] PHP Notice:  Undefined index: steps in C:\Apache24\htdocs\postdoc\genPDF.php on line 160
+[21-Aug-2014 15:12:22 America/Chicago] PHP Notice:  Undefined index: timelineSteps in C:\Apache24\htdocs\postdoc\genPDF.php on line 161
+[21-Aug-2014 15:12:22 America/Chicago] PHP Notice:  Undefined index: outcome in C:\Apache24\htdocs\postdoc\genPDF.php on line 162
+[21-Aug-2014 15:12:22 America/Chicago] PHP Notice:  Undefined index: timelineOutcomes in C:\Apache24\htdocs\postdoc\genPDF.php on line 163
+[21-Aug-2014 15:13:51 America/Chicago] heading = Research Goals
+[21-Aug-2014 15:13:51 America/Chicago] PHP Notice:  Undefined index: goal in C:\Apache24\htdocs\postdoc\genPDF.php on line 159
+[21-Aug-2014 15:13:51 America/Chicago] PHP Notice:  Undefined index: steps in C:\Apache24\htdocs\postdoc\genPDF.php on line 160
+[21-Aug-2014 15:13:51 America/Chicago] PHP Notice:  Undefined index: timelineSteps in C:\Apache24\htdocs\postdoc\genPDF.php on line 161
+[21-Aug-2014 15:13:51 America/Chicago] PHP Notice:  Undefined index: outcome in C:\Apache24\htdocs\postdoc\genPDF.php on line 162
+[21-Aug-2014 15:13:51 America/Chicago] PHP Notice:  Undefined index: timelineOutcomes in C:\Apache24\htdocs\postdoc\genPDF.php on line 163
+[21-Aug-2014 15:13:51 America/Chicago] heading = Research Goals
+[21-Aug-2014 15:13:51 America/Chicago] PHP Notice:  Undefined index: goal in C:\Apache24\htdocs\postdoc\genPDF.php on line 159
+[21-Aug-2014 15:13:51 America/Chicago] PHP Notice:  Undefined index: steps in C:\Apache24\htdocs\postdoc\genPDF.php on line 160
+[21-Aug-2014 15:13:51 America/Chicago] PHP Notice:  Undefined index: timelineSteps in C:\Apache24\htdocs\postdoc\genPDF.php on line 161
+[21-Aug-2014 15:13:51 America/Chicago] PHP Notice:  Undefined index: outcome in C:\Apache24\htdocs\postdoc\genPDF.php on line 162
+[21-Aug-2014 15:13:51 America/Chicago] PHP Notice:  Undefined index: timelineOutcomes in C:\Apache24\htdocs\postdoc\genPDF.php on line 163
+[21-Aug-2014 15:13:51 America/Chicago] heading = Research Goals
+[21-Aug-2014 15:13:51 America/Chicago] PHP Notice:  Undefined index: goal in C:\Apache24\htdocs\postdoc\genPDF.php on line 159
+[21-Aug-2014 15:13:51 America/Chicago] PHP Notice:  Undefined index: steps in C:\Apache24\htdocs\postdoc\genPDF.php on line 160
+[21-Aug-2014 15:13:51 America/Chicago] PHP Notice:  Undefined index: timelineSteps in C:\Apache24\htdocs\postdoc\genPDF.php on line 161
+[21-Aug-2014 15:13:51 America/Chicago] PHP Notice:  Undefined index: outcome in C:\Apache24\htdocs\postdoc\genPDF.php on line 162
+[21-Aug-2014 15:13:51 America/Chicago] PHP Notice:  Undefined index: timelineOutcomes in C:\Apache24\htdocs\postdoc\genPDF.php on line 163
+[21-Aug-2014 15:13:51 America/Chicago] heading = Research Goals (Fill out as many as desired)
+[21-Aug-2014 15:13:51 America/Chicago] heading = Research Goals (Fill out as many as desired)
+[21-Aug-2014 15:13:51 America/Chicago] heading = Research Goals (Fill out as many as desired)
+[21-Aug-2014 15:13:51 America/Chicago] heading = Publication Record (Fill out as many as desired)
+[21-Aug-2014 15:13:51 America/Chicago] heading = Publication Record (Fill out as many as desired)
+[21-Aug-2014 15:13:51 America/Chicago] heading = Publication Record (Fill out as many as desired)
+[21-Aug-2014 15:13:51 America/Chicago] heading = Presentation Experience (Fill out as many as desired)
+[21-Aug-2014 15:13:51 America/Chicago] heading = Presentation Experience (Fill out as many as desired)
+[21-Aug-2014 15:13:51 America/Chicago] heading = Presentation Experience (Fill out as many as desired)
+[21-Aug-2014 15:13:51 America/Chicago] heading = Professional Development (Fill out as many as desired)
+[21-Aug-2014 15:13:51 America/Chicago] heading = Professional Development (Fill out as many as desired)
+[21-Aug-2014 15:13:51 America/Chicago] heading = Professional Development (Fill out as many as desired)
+[21-Aug-2014 15:13:51 America/Chicago] heading = Customized Career Criteria Relevant to Career Goal (Fill out as many as desired)
+[21-Aug-2014 15:13:51 America/Chicago] heading = Customized Career Criteria Relevant to Career Goal (Fill out as many as desired)
+[21-Aug-2014 15:13:51 America/Chicago] heading = Customized Career Criteria Relevant to Career Goal (Fill out as many as desired)
