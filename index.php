@@ -7,13 +7,14 @@
  */
 
 include 'include/php/header.php';
-error_reporting(0);
 
 $headings = array ('Research Goals','Publication Record','Presentation Experience','Professional Development','Customized Career Criteria Relevant to Career Goal',);
 
 echo "<div id='container' class='container'>";
 
 /*generate6Dots();*/
+echo("<script src=\"include/js/javascript.js\" language=\"Javascript\" type=\"text/javascript\"></script>");
+
 echo '<form name="input" action="genPDF.php" method="post" target="_blank">';
 
 generateName();
@@ -35,6 +36,7 @@ echo "</div></body></html>";
 
 
 function genSubmit(){
+              
     //echo '<input type="submit" value="GENERATE PDF " style="float:right">';
     echo '<button  class="btn btn-primary" style="float:right">Print Form</button><br><br><br>';
     
@@ -119,7 +121,7 @@ function generate6Forms($headings){
     #echo "<br><br><br>";
     foreach($headings as $heading => $head){
         $id = $heading+1;
-      $div = "<div id={$head}>";
+      $div = "<div id='{$head}'>";
       $table = "
           <table class='table table-bordered'>
           <tr><td colspan=3 style='background-color:lightgray'></td> </tr>
@@ -145,9 +147,12 @@ function generate6Forms($headings){
             <tr><td colspan=3 style='background-color:lightgray'></td> </tr>";
             
             }
+            
       
       $table .= "</table>";
-      
+      $table .= "<input type=\"button\" value=\"Add another goal\" onClick=\"addInput('{$head}');\">";
+            
+
          $div .= $table . "</div><br><br>";
    
       echo $div;

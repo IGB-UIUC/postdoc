@@ -1,6 +1,7 @@
 <?php
 require_once('tcpdf/tcpdf.php');
 date_default_timezone_set("America/Chicago");
+error_reporting(0);
 // create new PDF document
 $pdf = new TCPDF('L', PDF_UNIT, PDF_PAGE_FORMAT, true, 'UTF-8', false);
 
@@ -65,8 +66,8 @@ function generateSplash(){
 
 
   //Hide the Header!!
-   $pdf->SetFillColor(255,255,255);
-   $array = array('');
+   $pdf->SetFillColor(255,255,255); 
+  $array = array('');
    $pdf->Rect(0, 0, 100, 10, 'DF', $array);
    $pdf->SetFillColor(255,255,255);
  
@@ -152,10 +153,23 @@ function generateTable($i,$heading){
     $pdf->SetFont('helvetica', 'b', 14 );
     $pdf->Cell(0, 10, " {$heading}", 1, 1, 'C', 0, '', 0);
     
-    for( $i=1; $i <= 3; $i++){
+
+    //for( $i=1; $i <= 3; $i++){
+
+    $i = 1;
+    $j = $i;
+    while($i<= 3 || $_POST['formdata'][$heading]['extra'][$i] != null) {
+        
         $j = $i;
+        
+        if($j > 3 && $j%3 == 1) {
+            $pdf->AddPage();
+            $pdf->SetFont('helvetica', 'b', 14 );
+            $pdf->Cell(0, 10, " {$heading}", 1, 1, 'C', 0, '', 0);
+        }
         error_log("heading = $heading");
         //Get formdata
+
         $goal = $_POST['formdata'][$heading]['goal'][$j];
         $steps = $_POST['formdata'][$heading]['steps'][$j];
         $steps_timeline = $_POST['formdata'][$heading]['timelineSteps'][$j];
@@ -180,8 +194,8 @@ function generateTable($i,$heading){
         $pdf->MultiCell(50, 11, "Goal #{$i}", 1, 'L', 1, 0, '', '', true);
         $pdf->SetFont('helvetica', '', 8.5 );
         $pdf->MultiCell(167, 11, $goal, 1, 'L', 1, 0, '', '', true);
-        $pdf->SetFont('helvetica', 'b', 13 );
-        $pdf->MultiCell(50, 11, "Timeline", 1, 'L', 1, 0, '', '', true);
+        $pdf->SetFont('helvetica', 'b', 9 );
+        $pdf->MultiCell(50, 11, "Anticipated Completion Date", 1, 'L', 1, 0, '', '', true);
         $pdf->Ln();
         
         
@@ -218,9 +232,22 @@ function generateTable($i,$heading){
         $pdf->SetFillColor(255, 255, 255);
         $pdf->Ln();
         
+        $i++;
+        
     }
 }
 
+
+// Determines if an input has been sent via POST
+// Returns TRUE if the variable is not null, and not false, else it returns FALSE
+function is_posted($field_name) {
+    if(filter_input(INPUT_POST, $field_name) != NULL && filter_input(INPUT_POST, $field_name) != FALSE) {
+        return TRUE;
+    } else {
+        return FALSE;
+    }
+    
+}
 
 
 ?>
